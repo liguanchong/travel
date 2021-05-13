@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b095c9cc-859e-49cb-999b-0cd769016c3b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven\maven_repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../maven/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_HOME" />
+    <option name="vmOptions" value="-Dfile.encoding=gb2312" />
+  </component>
+  <component name="ProjectId" id="1kGgwN7PW3ByblqdbEQFGdPFdxI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="js.last.introduce.type" value="VAR" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../system" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\travel\src\main\webapp\images" />
+      <recent name="C:\Users\冲\Desktop\52.综合案例4\08-初始项目\travel\src\main\java\cn\itcast\travel\dao\impl" />
+      <recent name="C:\Users\冲\Desktop\52.综合案例4\08-初始项目\travel\src\main\java\cn\itcast\travel\service\impl" />
+      <recent name="C:\Users\冲\Desktop\52.综合案例4\08-初始项目\travel\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.itcast.travel.dao.impl" />
+      <recent name="cn.itcast.travel.service.impl" />
+      <recent name="cn.itcast.travel.domain" />
+      <recent name="cn.itcast.travel.web.servlet" />
+      <recent name="cn.itcast.travel.web.filter" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\冲\Desktop\52.综合案例4\08-初始项目\travel\src\main\java\cn\itcast\travel\web\servletNull" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="MailUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.travel.util.MailUtils" />
+      <module name="travel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.travel.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.travel.domain.Test" />
+      <module name="travel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.travel.domain.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="travel [tomcat7:run]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.MailUtils" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b095c9cc-859e-49cb-999b-0cd769016c3b" name="Default Changelist" comment="" />
+      <created>1605332580115</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605332580115</updated>
+      <workItem from="1605332586342" duration="3421000" />
+      <workItem from="1605337596704" duration="49899000" />
+      <workItem from="1607176096795" duration="3324000" />
+      <workItem from="1607240261074" duration="524000" />
+      <workItem from="1607649459183" duration="7193000" />
+      <workItem from="1607832951492" duration="22464000" />
+      <workItem from="1608520276702" duration="2715000" />
+      <workItem from="1615338346350" duration="125000" />
+      <workItem from="1615440902478" duration="2687000" />
+      <workItem from="1615619059266" duration="783000" />
+      <workItem from="1615622993597" duration="404000" />
+      <workItem from="1615862630460" duration="5169000" />
+      <workItem from="1615879117285" duration="2861000" />
+      <workItem from="1616032974026" duration="3084000" />
+      <workItem from="1616212127462" duration="632000" />
+      <workItem from="1616229562939" duration="2495000" />
+      <workItem from="1616247804184" duration="3436000" />
+      <workItem from="1617063718513" duration="240000" />
+      <workItem from="1617071695258" duration="1797000" />
+      <workItem from="1617151197203" duration="324000" />
+      <workItem from="1617151936899" duration="607000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1616229578518">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1616229578518" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1617063956925">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1617063956925" />
+    <state width="1323" height="180" key="GridCell.Tab.0.bottom" timestamp="1616252150183">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="180" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1616252150183" />
+    <state width="1323" height="180" key="GridCell.Tab.0.center" timestamp="1616252150183">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="180" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1616252150183" />
+    <state width="1323" height="180" key="GridCell.Tab.0.left" timestamp="1616252150183">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="180" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1616252150183" />
+    <state width="1323" height="180" key="GridCell.Tab.0.right" timestamp="1616252150183">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="180" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1616252150183" />
+    <state x="57" y="58" key="new project wizard" timestamp="1615442427896">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="57" y="58" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1615442427896" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1616249156427">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1616249156427" />
+  </component>
+</project>
